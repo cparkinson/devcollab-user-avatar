@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: DevCollaborative User Avatar
-Plugin URI: http://wordpress.org/plugins/wp-user-avatar/
+Plugin URI: https://github.com/cparkinson/devcollab-user-avatar
 Description: Use any image from your WordPress Media Library as a custom user avatar. Add your own Default Avatar. Copy of WP User Avatar 2.2.16 from 2021
 Author: ProfilePress/DevCollaborative
 Author URI: https://profilepress.net/
